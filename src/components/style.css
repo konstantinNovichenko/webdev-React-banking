@@ -1,0 +1,25 @@
+.debit-activity{
+    display: flex;
+    flex-direction: column;
+}
+
+.debit-result{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.credit-result{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.description{
+    width: 400px;
+}
+.amount{
+    width: 150px;
+}
+
+
